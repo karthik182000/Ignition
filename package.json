@@ -1,0 +1,29 @@
+{
+  "name": "ignition",
+  "version": "1.0.0",
+  "description": "This is igniting our application",
+ 
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karthik182000/Ignition.git"
+  },
+  "keywords": [
+    "react",
+    "karthik"
+  ],
+  "author": "\"karthik\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karthik182000/Ignition/issues"
+  },
+  "homepage": "https://github.com/karthik182000/Ignition#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  },
+  "browserslist":[
+    "last 10 versions of chrome"
+  ]
+}
